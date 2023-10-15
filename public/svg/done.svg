@@ -1,0 +1,16 @@
+
+<svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Основний малюнок -->
+  <g id="radix-icons:cross-1" clip-path="url(#clip0_1_28)">
+    <path id="Vector" d="M11.5293 3.46094L4.6543 10.3359L1.5293 7.21094" stroke="#008000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  
+  <!-- Коло з бордюром -->
+  <circle cx="6.5" cy="6.5" r="6" stroke="#008000" stroke-width="0.5" fill="none" />
+
+  <defs>
+    <clipPath id="clip0_1_28">
+      <rect width="12" height="12" fill="white" transform="translate(0.529297 0.5625)"/>
+    </clipPath>
+  </defs>
+</svg>
